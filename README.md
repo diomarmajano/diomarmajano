@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me llamo Diomar. Soy estudiante de la carrera analista programador.</p>
+<p align="left">Me llamo Diomar. Analista Programador.</p>
 
 ###
 
