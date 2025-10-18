@@ -1,8 +1,9 @@
-<h1 align="left">Hola 👋 Bienvenido a mi perfil</h1>
+<h1 align="left">Analista Programador</h1>
 
 ###
 
-<p align="left">Me llamo Diomar. Analista Programador.</p>
+<p align="left">Tengo una empresa de desarrollo de software, más información en la página de la empresa: </p>
+<a href="https://ifcloud.cl"> If cloud SPA </a>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Desarrollador web ...<br>📚 Actualmente estoy aprendiendo mas sobre el desarrollo backend<br>🎯 Metas: Formar un equipo de desarrollo para crear soluciones disponibles al publico</p>
+<p align="left">✨Desarrollador de software<br>📚Mi fuerte: el backend<br>🎯 Metas: Formar un equipo de desarrollo para crear soluciones disponibles al público</p>
 
 ###
 
